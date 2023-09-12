@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.1",
+    "typescript": "^5.2.2"
+  },
+  "name": "cfdsa-precourse",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run --watch index.ts"}
+}
